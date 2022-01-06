@@ -1,0 +1,143 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+.top-section{
+    display: flex;
+    margin-bottom: 50px;
+}
+.half-top{
+    width: 50%;
+    padding-left:5%;
+    padding-right: 4%; 
+}
+.top-img img{
+    width: 92%;
+    padding-left:42px; 
+    padding-right:4px;
+    padding-bottom: 30px;
+}
+h1{
+    margin: 0;
+    font-size:50px;
+}
+
+.color-title{
+  color:rgb(250, 185, 7);
+}
+.first-half{
+    padding-top: 180px;
+    padding-left:65px;
+}
+.top-border{
+    border-left: 5px solid tomato;
+    padding-left: 10px;
+    font-family: 'Luxurious Roman', cursive;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Playfair Display', serif;
+     
+}
+.btn{
+    background-color: tomato;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+.card-section{
+    margin-bottom: 100px;
+}
+.card-flex{
+    display: flex;
+    margin-left: 8%;
+    margin-right: 10%;
+}
+.card-title{
+    text-align: center;
+    font-size: 40px;
+}
+.card-mission{
+    border-radius: 15px;
+    padding:10px;
+    margin: 10px;
+}
+.card-mission img{
+  height: 100px;
+  width: 100px;
+  padding-top: 10px;
+}
+.card-1{
+    background-color: rgb(233, 250, 250);
+}
+.card-2{
+    background-color: rgb(250, 233, 250);
+}
+.card-3{
+    background-color: rgb(248, 243, 176);
+}
+.third-section{
+    display: flex;
+    background-image: url(./images/shapes/shape-10.png);
+    background-repeat: no-repeat;
+    background-position:left;
+    margin-bottom:100px;
+}
+.second-half{
+  padding-top: 50px;
+
+}
+.fourth-section{
+
+    display: flex;
+    background-image: url(./images/shapes/shape-10.png);
+    background-repeat: no-repeat;
+    background-position:right;
+    margin-bottom: 100px;
+
+}
+.fourth-half{
+    padding-top: 40px;
+    padding-left: 50px;
+}
+
+.contact-section{
+    margin-bottom: 100px;
+    background-image: url(./images/shapes/shape-11.png);
+    background-repeat: no-repeat;
+    background-position:left;
+}
+.contact{
+    background-color: gray;
+    padding: 20px;
+    margin-left:30%;
+    margin-right:25%; 
+}
+.contact-title{
+    text-align: center;
+}
+input ,textarea{
+width:90%;
+padding: 10px 10px;
+}
+.footer-color{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.mission-color{
+    color: white;
+    font-size: 30px;
+}
+.color-2022{
+    color: tomato;
+    font-size: 30px;
+}
+.mission-font{
+
+    /*font-family: 'Luxurious Roman', cursive;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Playfair Display', serif;*/
+    font-family: 'The Nautigal', cursive;
+}
